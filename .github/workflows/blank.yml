@@ -1,0 +1,3 @@
+git remote add origin https://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@github.com/adsyfu3asdf/A1-re-imagined.git
+git branch -M main
+git push -u origin main
